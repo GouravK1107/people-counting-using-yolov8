@@ -133,6 +133,7 @@ pip install -r requirements.txt
 Gourav K  
 BCA Student | Backend & AI Enthusiast  
 Focused on Computer Vision and AI System Development.
+2026
 
 ---
 
